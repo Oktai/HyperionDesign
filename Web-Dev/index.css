@@ -46,6 +46,11 @@ body {
 /* Basics */
 
 .case-study-section{
+    width: 100%;
+    max-width: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -87,7 +92,7 @@ body {
     width: 100%;
     max-width: 400px;
     display: block;
-    margin-left: auto;
+    margin-left: 26%;
     margin-right: auto;
     margin-top: 60px;
     margin-bottom: 60px;
@@ -109,11 +114,31 @@ body {
 
     letter-spacing: 2px;
     text-align: center;
-    font-size: 20px;
+    font-size: 24px;
     /* text-decoration: underline;
     text-decoration-color: rgb(232, 197, 71); */
     border-bottom: 1px solid rgb(232, 197, 71);
     padding-bottom: 3px;
+}
+
+.header.web-designer{
+    width: 136px;
+}
+
+.header.case-studies{
+    width: 126px;
+}
+
+.header.about{
+    width: 100px;
+}
+
+.header.skills{
+    width: 166px;
+}
+
+.header.contact{
+    width: 116px;
 }
 
 .header.simple{
@@ -227,4 +252,30 @@ footer{
 
 .footer-copy{
     font-size: 24px;
+}
+
+@media(max-width: 500px){
+    .header{
+        font-size: 34px;
+    }
+
+    .header.web-designer{
+        width: 186px;
+    }
+    
+    .header.case-studies{
+        width: 176px;
+    }
+    
+    .header.about{
+        width: 130px;
+    }
+    
+    .header.skills{
+        width: 216px;
+    }
+    
+    .header.contact{
+        width: 150px;
+    }
 }
