@@ -1,1 +1,157 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="2712.277 176 421.528 292.323"><defs><style>.a,.b,.d{fill:#e8c547;}.a{opacity:0.75;}.b,.c,.d,.f{font-size:102px;}.b,.c,.d,.e,.f{font-family:KorolevCompressed-Medium, Korolev;font-weight:500;}.b,.c{letter-spacing:0.17em;}.c,.e,.f{fill:#d8d4f2;}.d,.e,.f{letter-spacing:0.18em;}.e{font-size:101px;}.g{fill:none;stroke:#d8d4f2;}.h{filter:url(#m);}.i{filter:url(#k);}.j{filter:url(#i);}.k{filter:url(#g);}.l{filter:url(#e);}.m{filter:url(#c);}.n{filter:url(#a);}</style><filter id="a" x="2819.844" y="208.256" width="259" height="147" filterUnits="userSpaceOnUse"><feOffset dy="5" input="SourceAlpha"/><feGaussianBlur stdDeviation="3" result="b"/><feFlood flood-opacity="0.341"/><feComposite operator="in" in2="b"/><feComposite in="SourceGraphic"/></filter><filter id="c" x="2819.88" y="299.684" width="58" height="145" filterUnits="userSpaceOnUse"><feOffset dy="7" input="SourceAlpha"/><feGaussianBlur stdDeviation="3" result="d"/><feFlood flood-opacity="0.329"/><feComposite operator="in" in2="d"/><feComposite in="SourceGraphic"/></filter><filter id="e" x="2875.961" y="298.684" width="54" height="147" filterUnits="userSpaceOnUse"><feOffset dy="7" input="SourceAlpha"/><feGaussianBlur stdDeviation="3" result="f"/><feFlood flood-opacity="0.329"/><feComposite operator="in" in2="f"/><feComposite in="SourceGraphic"/></filter><filter id="g" x="2931.555" y="298.684" width="53" height="147" filterUnits="userSpaceOnUse"><feOffset dy="7" input="SourceAlpha"/><feGaussianBlur stdDeviation="3" result="h"/><feFlood flood-opacity="0.329"/><feComposite operator="in" in2="h"/><feComposite in="SourceGraphic"/></filter><filter id="i" x="2985" y="298.684" width="37" height="147" filterUnits="userSpaceOnUse"><feOffset dy="7" input="SourceAlpha"/><feGaussianBlur stdDeviation="3" result="j"/><feFlood flood-opacity="0.329"/><feComposite operator="in" in2="j"/><feComposite in="SourceGraphic"/></filter><filter id="k" x="3021.521" y="298.684" width="58" height="147" filterUnits="userSpaceOnUse"><feOffset dy="7" input="SourceAlpha"/><feGaussianBlur stdDeviation="3" result="l"/><feFlood flood-opacity="0.329"/><feComposite operator="in" in2="l"/><feComposite in="SourceGraphic"/></filter><filter id="m" x="3089.768" y="318.212" width="9" height="9" filterUnits="userSpaceOnUse"><feOffset dy="1" input="SourceAlpha"/><feGaussianBlur stdDeviation="1.5" result="n"/><feFlood/><feComposite operator="in" in2="n"/><feComposite in="SourceGraphic"/></filter></defs><g transform="translate(2706 176)"><g transform="translate(0 0)"><path class="a" d="M146.161,0A146.161,146.161,0,1,1,0,146.161,146.161,146.161,0,0,1,146.161,0Z" transform="translate(95.946)"/><g transform="translate(6.277 36.256)"><text class="b" transform="translate(0 100)"><tspan x="0" y="0">HY</tspan></text><g transform="translate(116.568 0)"><g class="n" transform="matrix(1, 0, 0, 1, -2828.84, -212.26)"><text class="c" transform="translate(2828.84 312.26)"><tspan x="0" y="0">PERIO</tspan></text></g><text class="d" transform="translate(262.784 100)"><tspan x="0" y="0">N</tspan></text></g></g><g transform="translate(87.88 124.684)"><text class="d" transform="translate(297.925 100)"><tspan x="0" y="0">N</tspan></text><g class="m" transform="matrix(1, 0, 0, 1, -2793.88, -300.68)"><text class="e" transform="translate(2828.88 400.68)"><tspan x="0" y="0">D</tspan></text></g><g class="l" transform="matrix(1, 0, 0, 1, -2793.88, -300.68)"><text class="f" transform="translate(2884.96 400.68)"><tspan x="0" y="0">E</tspan></text></g><g class="k" transform="matrix(1, 0, 0, 1, -2793.88, -300.68)"><text class="f" transform="translate(2940.56 400.68)"><tspan x="0" y="0">S</tspan></text></g><g class="j" transform="matrix(1, 0, 0, 1, -2793.88, -300.68)"><text class="f" transform="translate(2994 400.68)"><tspan x="0" y="0">I</tspan></text></g><g class="i" transform="matrix(1, 0, 0, 1, -2793.88, -300.68)"><text class="f" transform="translate(3030.52 400.68)"><tspan x="0" y="0">G</tspan></text></g></g><g class="h" transform="matrix(1, 0, 0, 1, -2706, -176)"><path class="g" d="M292.323,0" transform="translate(2801.94 321.71)"/></g></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="2712.277 176 421.528 292.323">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: #e8c547;
+      }
+
+      .cls-1 {
+        opacity: 0.75;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-6 {
+        font-size: 102px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        font-family: KorolevCompressed-Medium, Korolev;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-3 {
+        letter-spacing: 0.17em;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        fill: #d8d4f2;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        letter-spacing: 0.18em;
+      }
+
+      .cls-5 {
+        font-size: 101px;
+      }
+
+      .cls-7 {
+        fill: none;
+        stroke: #d8d4f2;
+      }
+
+      .cls-8 {
+        filter: url(#Line_23);
+      }
+
+      .cls-9 {
+        filter: url(#G);
+      }
+
+      .cls-10 {
+        filter: url(#I);
+      }
+
+      .cls-11 {
+        filter: url(#S);
+      }
+
+      .cls-12 {
+        filter: url(#E);
+      }
+
+      .cls-13 {
+        filter: url(#_D);
+      }
+
+      .cls-14 {
+        filter: url(#PERIO);
+      }
+    </style>
+    <filter id="PERIO" x="2819.844" y="208.256" width="259" height="147" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_D" x="2819.88" y="299.684" width="58" height="145" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.329"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="E" x="2875.961" y="298.684" width="54" height="147" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.329"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="S" x="2931.555" y="298.684" width="53" height="147" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.329"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="I" x="2985" y="298.684" width="37" height="147" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.329"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="G" x="3021.521" y="298.684" width="58" height="147" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.329"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_23" x="3089.768" y="318.212" width="9" height="9" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-7"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_54" data-name="Group 54" transform="translate(2706 176)">
+    <g id="Group_53" data-name="Group 53" transform="translate(0 0)">
+      <path id="Path_58" data-name="Path 58" class="cls-1" d="M146.161,0A146.161,146.161,0,1,1,0,146.161,146.161,146.161,0,0,1,146.161,0Z" transform="translate(95.946)"/>
+      <g id="Group_50" data-name="Group 50" transform="translate(6.277 36.256)">
+        <g id="Group_52" data-name="Group 52">
+          <text id="HY" class="cls-2" transform="translate(0 100)"><tspan x="0" y="0">HY</tspan></text>
+          <g id="Group_51" data-name="Group 51" transform="translate(116.568 0)">
+            <g class="cls-14" transform="matrix(1, 0, 0, 1, -2828.84, -212.26)">
+              <text id="PERIO-2" data-name="PERIO" class="cls-3" transform="translate(2828.84 312.26)"><tspan x="0" y="0">PERIO</tspan></text>
+            </g>
+            <text id="N" class="cls-4" transform="translate(262.784 100)"><tspan x="0" y="0">N</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_49" data-name="Group 49" transform="translate(87.88 124.684)">
+        <text id="N-2" data-name="N" class="cls-4" transform="translate(297.925 100)"><tspan x="0" y="0">N</tspan></text>
+        <g class="cls-13" transform="matrix(1, 0, 0, 1, -2793.88, -300.68)">
+          <text id="_D-2" data-name=" D" class="cls-5" transform="translate(2828.88 400.68)"><tspan x="0" y="0">D</tspan></text>
+        </g>
+        <g class="cls-12" transform="matrix(1, 0, 0, 1, -2793.88, -300.68)">
+          <text id="E-2" data-name="E" class="cls-6" transform="translate(2884.96 400.68)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+        <g class="cls-11" transform="matrix(1, 0, 0, 1, -2793.88, -300.68)">
+          <text id="S-2" data-name="S" class="cls-6" transform="translate(2940.56 400.68)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+        <g class="cls-10" transform="matrix(1, 0, 0, 1, -2793.88, -300.68)">
+          <text id="I-2" data-name="I" class="cls-6" transform="translate(2994 400.68)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+        <g class="cls-9" transform="matrix(1, 0, 0, 1, -2793.88, -300.68)">
+          <text id="G-2" data-name="G" class="cls-6" transform="translate(3030.52 400.68)"><tspan x="0" y="0">G</tspan></text>
+        </g>
+      </g>
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, -2706, -176)">
+        <path id="Line_23-2" data-name="Line 23" class="cls-7" d="M292.323,0" transform="translate(2801.94 321.71)"/>
+      </g>
+    </g>
+  </g>
+</svg>
