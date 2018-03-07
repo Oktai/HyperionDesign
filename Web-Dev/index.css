@@ -179,9 +179,28 @@ p.skinny{
     letter-spacing: 2px;
 }
 
+.btn-yellow{
+    background: rgb(232, 197, 71);
+    color: #000;
+    transition: 0.4s;
+}
+
+.btn-yellow:hover{
+    background: none;
+    color: rgb(232, 197, 71);
+    transition: 0.4s;
+}
+
 .btn-yellow-hollow{
     background: none;
     color: rgb(232, 197, 71);
+    transition: 0.4s;
+}
+
+.btn-yellow-hollow:hover{
+    background: rgb(232, 197, 71);;
+    color: black;
+    transition: 0.4s;
 }
 
 .btn-row-left button{

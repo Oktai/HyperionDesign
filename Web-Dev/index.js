@@ -17,3 +17,17 @@ $("#nav-contact").click(function(){
         scrollTop:  $("#contact").offset().top
     }, 1000);
 });
+
+$("#btn-contact").click(function(){
+    $('html, body').stop().animate({
+        scrollTop:  $("#contact").offset().top
+    }, 1000);
+});
+
+$("#btn-hd-visit-site").click(function(){
+    window.open("http://hdknowledge.co.uk");
+});
+
+$("#btn-hd-case-study").click(function(){
+    window.location.href = window.location.origin + "/HDKnowledge.html";
+});
